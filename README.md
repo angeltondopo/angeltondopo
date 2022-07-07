@@ -2,7 +2,7 @@
 
 #  Hola 🖖!
  
-Me llamo Ángel Tondopó soy Python Developer, con amplios conocimientos en IT. Me gusta aprender cosas nuevas y diversas. Me considero un amante de la sabiduría, ansioso por desarrollar mis habilidades y mantenerme actualizado en el sector de la tecnología a través de cursos continuos.
+Me llamo Ángel Tondopó soy Python :tw-1f40d: Developer, con amplios conocimientos en IT :tw-1f4bb:. Me gusta aprender cosas nuevas y diversas. Me considero un amante de la sabiduría :tw-1f4da:, ansioso por desarrollar mis habilidades y mantenerme actualizado en el sector de la tecnología a través de cursos continuos.
  
 ## Areas de Conocimiento
 
@@ -11,6 +11,11 @@ Me llamo Ángel Tondopó soy Python Developer, con amplios conocimientos en IT. 
 - Conocimientos generales de Seguridad Informatica.
 - Fundamentos de Cloud Computing y los servicios de amazon AWS.
 
+## Mis redes sociales son
+
+- [Github](https://github.com/angeltondopo "Github")
+- [LinkedIn](https://linkedin.com/in/tondopo "LinkedIn")
+- [Platzi](https://platzi.com/p/angeltondopo/ "Platzi")
  
 <!--
 **angeltondopo/angeltondopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
