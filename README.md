@@ -1,10 +1,10 @@
 <!-- ### Hi there 👋 -->
 
-##  Hola 🖖!
+#  Hola 🖖!
  
 Me llamo Ángel Tondopó soy Python Developer, con amplios conocimientos en IT. Me gusta aprender cosas nuevas y diversas. Me considero un amante de la sabiduría, ansioso por desarrollar mis habilidades y mantenerme actualizado en el sector de la tecnología a través de cursos continuos.
  
- Areas de Conocimiento
+## Areas de Conocimiento
 
 - Lenguaje de programacón Python
 - Manejo de sistemas operativos Linux y uso fluido de Terminal y linea de comandos. 
