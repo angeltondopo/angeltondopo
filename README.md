@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 
-#  Hola 🖖!
+#  Hola &#128406;!
  
-Me llamo Ángel Tondopó soy Python :tw-1f40d: Developer, con amplios conocimientos en IT :tw-1f4bb:. Me gusta aprender cosas nuevas y diversas. Me considero un amante de la sabiduría :tw-1f4da:, ansioso por desarrollar mis habilidades y mantenerme actualizado en el sector de la tecnología a través de cursos continuos.
+Me llamo Ángel Tondopó soy Python &#128013; Developer, con amplios conocimientos en IT &#128187;. Me gusta aprender cosas nuevas y diversas. Me considero un amante de la sabiduría &#128218;, ansioso por desarrollar mis habilidades y mantenerme actualizado en el sector de la tecnología a través de cursos continuos.
  
 ## Areas de Conocimiento
 
